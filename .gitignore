@@ -1,0 +1,9 @@
+/target/
+/.classpath
+/.project
+/.settings/
+/bin/
+/.idea/
+/apus-insurance-core-modules/apus-order-service/src/main/java/com/mslife/order/config/CorsConf.java
+/apus-insurance-basic-modules/apus-common-service/src/main/java/com/mslife/app/config
+*.iml
